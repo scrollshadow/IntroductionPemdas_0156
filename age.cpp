@@ -9,7 +9,7 @@ int main(){ //program utama
     int age; //variable local
     int agel; //variable local
     age = 20;
-    agel = 15;
+    agel = 25;
     
     cout << "gusti ganteng" << endl;
     cout << 99 << endl;
